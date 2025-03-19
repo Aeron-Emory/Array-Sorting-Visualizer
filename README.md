@@ -23,8 +23,8 @@ get the lib from: 🔗 [**SDL3-devel-3.2.8-VC.zip**](https://github.com/libsdl-o
 extract it
 find the directory
 SDL3-3.2.8\lib\(x64/x86/arm64)
-copy the directory based on your machine
-paste it in the SDL3 folder inside the Sort Array Folder
+copy the directory's content based on your machine
+paste it in the SDL3/x64 (make the folder x64) folder inside the Sort Array Folder
 
 ## Notes
 
